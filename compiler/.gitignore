@@ -1,7 +1,7 @@
 env
 tools
-compiler/.classpath
-compiler/.project
-compiler/compiler.ipr
-compiler/compiler.iml
-compiler/compiler.iws
+.classpath
+.project
+compiler.ipr
+compiler.iml
+compiler.iws
